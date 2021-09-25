@@ -1,0 +1,1 @@
+To run on both Chrome & Firefox - npm start
